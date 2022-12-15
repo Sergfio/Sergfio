@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sergfio
-- 👀 I’m interested in coding. At the moment Webdevelopment.
-- 🌱 I’m currently learning all about Frontend.
+- 👋 Hi, I'm Stefan
+- 👀 I’m interested in coding. At the moment a lot of Webdevelopment.
+- 🌱 I’m currently learning all about Frontend and Backaend too.
 - 💞️ I’m looking to collaborate with other interesting people.
 - 📫 Here is my email adress: sergfio@gmx.de
 
