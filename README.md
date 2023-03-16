@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with other interesting people.
 - 📫 Here is my email adress: sergfio@gmx.de
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sergfio&count_private=true" alt="Stefan's Statistik">
 </p>
 
